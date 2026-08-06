@@ -14,9 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0981-time-based-key-value-store](https://github.com/Mohd-Arshan/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Mohd-Arshan/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
