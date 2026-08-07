@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Mohd-Arshan/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
