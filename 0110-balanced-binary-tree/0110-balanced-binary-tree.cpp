@@ -10,18 +10,16 @@
  * };
  */
 class Solution {
-    bool ans = true;
 private:
     int rec(TreeNode* root){
         if(root == NULL) return 0;
         int l = rec(root -> left);
         int r = rec(root -> right);
-        if(abs(l-r) > 1) ans = false; 
+        if(abs(l-r) > 1) return -5001; 
         return max(r,l) + 1;
     }
 public:
     bool isBalanced(TreeNode* root) {
-        rec(root);
-        return ans;
+        return rec(root) >= 0;
     }
 };
