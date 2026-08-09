@@ -12,9 +12,24 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(!p && !q) return true;
-        else if(!p || !q) return false;
-        if(p->val == q->val) return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
-        return false;
+        stack<TreeNode*> stk1,stk2;
+
+        stk1.push(p);
+        stk2.push(q);
+
+        while(!stk1.empty() && !stk2.empty()){
+            TreeNode* a = stk1.top(); stk1.pop();
+            TreeNode* b = stk2.top(); stk2.pop();
+            if(!a && !b) continue;
+
+            if(!a || !b || (a->val != b->val)) return false;
+
+            stk1.push(a->left);
+            stk1.push(a->right);
+            stk2.push(b->left);
+            stk2.push(b->right);
+        }
+
+        return stk1.empty() && stk2.empty();
     }
 };
