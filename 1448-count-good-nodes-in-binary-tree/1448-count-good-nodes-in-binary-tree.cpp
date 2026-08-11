@@ -11,23 +11,17 @@
  */
 class Solution {
 private:
-    void rec(TreeNode* root,int mx,int& gn){
-        if(root == NULL) return;
+    int rec(TreeNode* root,int mx){
+        if(root == NULL) return 0;
 
-        if(root->val >= mx){
-            gn++;
-        }
+        int l = rec(root->left,max(mx,root->val));
+        int r = rec(root->right,max(mx,root->val));
 
-        rec(root->left,max(mx,root->val),gn);
-        rec(root->right,max(mx,root->val),gn);
-        
-        return;
+        return l + r + int(root->val >= mx);
 
     }
 public:
     int goodNodes(TreeNode* root) {
-        int ans = 0;
-        rec(root,INT_MIN,ans);
-        return ans;
+        return rec(root,INT_MIN);
     }
 };
