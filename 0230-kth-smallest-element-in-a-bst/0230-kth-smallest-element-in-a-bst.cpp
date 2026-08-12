@@ -12,16 +12,18 @@
 class Solution {
 private:
     int count = 0, ans = 0;
+    bool flag = true;
     void rec(TreeNode* root,int k){
         if(!root) return;
 
-        rec(root->left,k);
+        if(flag) rec(root->left,k);
         count++;
         if(count == k){
             ans = root->val;
+            flag = false;
             return;
         }
-        rec(root->right,k);
+        if(flag) rec(root->right,k);
     }
 public:
     int kthSmallest(TreeNode* root, int k) {
