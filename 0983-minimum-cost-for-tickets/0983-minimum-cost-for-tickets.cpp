@@ -1,27 +1,22 @@
 class Solution {
-    int dp[365];
-    int rec(int idx,vector<int>& days,vector<int>& costs){
-        if(idx == days.size()) return 0;
-
-        if(dp[idx] != -1) return dp[idx];
-
-        int next = idx;
-        while(next<days.size() && days[next] < days[idx] + 1) next++;
-        int case1 = costs[0] + rec(idx+1, days, costs);
-        
-        next = idx;
-        while(next<days.size() && days[next] < days[idx] + 7) next++;
-        int case2 = costs[1] + rec(next, days, costs);
-
-        next = idx;
-        while(next<days.size() && days[next] < days[idx] + 30) next++;
-        int case3 = costs[2] + rec(next, days, costs);
-
-        return dp[idx] = min({case1,case2,case3});
-    }
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-        memset(dp,-1,sizeof(dp));
-        return rec(0,days,costs);
+        int n = days.size();
+        vector<int> dp(n + 1,0);
+
+        for(int i = n - 1; i>=0; i--){
+            int j = i;
+            while(j < n && days[j] < days[i] + 7) j++;
+            int k = i;
+            while(k < n && days[k] < days[i] + 30) k++;
+
+            dp[i] = min({
+                costs[0] + dp[i + 1],
+                costs[1] + dp[j],
+                costs[2] + dp[k]
+            });
+        }
+
+        return dp[0];
     }
 };
