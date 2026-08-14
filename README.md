@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Arshan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mohd-Arshan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohd-Arshan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohd-Arshan/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohd-Arshan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
