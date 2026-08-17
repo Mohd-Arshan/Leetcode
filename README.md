@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Arshan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Mohd-Arshan/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mohd-Arshan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohd-Arshan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohd-Arshan/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Mohd-Arshan/Leetcode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohd-Arshan/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohd-Arshan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## DP on Trees
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohd-Arshan/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Mohd-Arshan/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
