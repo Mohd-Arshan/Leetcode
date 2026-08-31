@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0981-time-based-key-value-store](https://github.com/Mohd-Arshan/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Mohd-Arshan/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Design
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Mohd-Arshan/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2029-stone-game-ix](https://github.com/Mohd-Arshan/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mohd-Arshan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohd-Arshan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Mohd-Arshan/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohd-Arshan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search Tree
 |  |
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mohd-Arshan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohd-Arshan/Leetcode/tree/master/0206-reverse-linked-list) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Mohd-Arshan/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Mohd-Arshan/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
