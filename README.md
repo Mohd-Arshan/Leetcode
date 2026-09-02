@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohd-Arshan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/Mohd-Arshan/Leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohd-Arshan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mohd-Arshan/Leetcode/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/Mohd-Arshan/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohd-Arshan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mohd-Arshan/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohd-Arshan/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mohd-Arshan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
