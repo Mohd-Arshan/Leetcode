@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohd-Arshan/Leetcode/tree/master/0258-add-digits) |
 | [1140-stone-game-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohd-Arshan/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohd-Arshan/Leetcode/tree/master/1563-stone-game-v) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohd-Arshan/Leetcode/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohd-Arshan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohd-Arshan/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mohd-Arshan/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
